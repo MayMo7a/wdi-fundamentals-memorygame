@@ -91,3 +91,17 @@ footer{
 	color: #F15B31;
 	font-weight: 700;
 }
+
+.reset{
+	background-color: #F15B31;
+    border: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+	letter-spacing: 1px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-family: Raleway;
+    font-size: 16px;
+    margin: 4px 2px;
+}
